@@ -5,4 +5,5 @@ public class Uchiha extends Ninja {
     public void habilidadeEspecial() {
         System.out.println("Meu nome é " + nome + ". Sou um Uchiha. Minha habilidade especial é de fogo.");
     }
+
 }

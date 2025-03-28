@@ -5,4 +5,5 @@ public class Uzumaki extends Ninja {
     public void habilidadeEspecial() {
         System.out.println("Meu nome é " + nome + ". Sou um Uzumaki. Minha habilidade especial do ar.");
     }
+
 }
