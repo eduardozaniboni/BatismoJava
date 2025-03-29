@@ -35,4 +35,12 @@ public class Uchiha extends Ninja {
 
         }
     }
+
+    // Annotation @Override
+    // 1. Conversão: É uma boa prática (padronização do Java) adicionar o @Override
+    // 2. Compilação: Previni possíveis erros de digitação entre metodos
+    @Override
+    public void metodoProvisorio() {
+        System.out.println("método provisório uchiha");
+    }
 }
